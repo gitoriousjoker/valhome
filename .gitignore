@@ -1,3 +1,8 @@
 /BepInEx/LogOutput.log
 *.log
 *.swp
+steam_appid.txt
+valheim.exe
+valheim_Data/*
+Unity*
+MonoBleedingEdge/*
